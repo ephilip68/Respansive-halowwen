@@ -6,4 +6,5 @@ RESPONSIVE HALLOWEEN WEBSITE
 - Développé d'abord avec la méthodologie Mobile First, puis pour le bureau.
 - Compatible avec tous les appareils mobiles et avec une interface utilisateur belle et agréable.
 
-  
+ ![alt text](https://github.com/ephilip68/Responsive-haloween/blob/main/preview.png?raw=true)
+ 
